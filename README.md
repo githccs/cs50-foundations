@@ -6,33 +6,27 @@ Technical implementations and low-level programming exercises from the CS50 curr
 
 temp.c
 
-    Celsius to Fahrenheit converter. Implemented using custom functions 
-    and floating-point arithmetic to ensure precision.
+    Celsius to Fahrenheit converter. Implemented using custom functions and floating-point arithmetic to ensure precision.
 
 tip.c
 
-    Tip percentage calculator. Focuses on function return values 
-    and modular arithmetic logic.
+    Tip percentage calculator. Focuses on function return values and modular arithmetic logic.
 
 parity.c
 
-    Even or odd number checker. Implements the modulo operator 
-    within conditional logic blocks.
+    Even or odd number checker. Implements the modulo operator within conditional logic blocks.
 
 agree.c
 
-    User input validation handler. Demonstrates character input 
-    processing and logical OR operators.
+    User input validation handler. Demonstrates character input processing and logical OR operators.
 
 calculator.c
 
-    Basic arithmetic operations platform. Establishes fundamentals 
-    of C data types and standard I/O.
+    Basic arithmetic operations platform. Establishes fundamentals of C data types and standard I/O.
 
 points.c
 
-    Logic comparison exercise. Focuses on variable casing 
-    standards and syntax structure.
+    Logic comparison exercise. Focuses on variable casing standards and syntax structure.
 
 ## Usage
 
